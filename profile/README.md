@@ -13,14 +13,13 @@
 
 ## 🚀 What We Do
 
-We are revolutionizing the way autonomous agents interact with source code.  
-LiquidOS enables intelligent agents to search, understand, and act on code context across large repositories in real time.
+We are building the future stack for AI — LiquidOS delivers foundational infrastructure that lets businesses deploy efficient, capable, and private Agentic AI systems across every scale, from edge devices to the cloud.
 
 ---
 
 ## 🧠 Our Mission
 
-To build the **GitHub for Semantic Code** — a system that empowers developers and organizations to build more adaptive, intelligent software.
+To make efficient general-purpose AI at every scale — enabling users to access, control, and customize powerful AI that works well across environments (on-device, private, enterprise). We believe AI should respect performance, domain-specific needs, and user privacy while being broadly useful. We believe this is possible with native support for Agentic AI at Edge.
 
 ---
 
