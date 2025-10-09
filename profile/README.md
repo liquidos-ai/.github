@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 LiquidOS
-Welcome to LiquidOS! We're a community-driven organization on a mission to deliver high-quality Agent software written entirely in Rust. Our goal? To empower developers to build secure, production-ready Agents that ru nanywhere with acceleration.
+Welcome to LiquidOS! We're a community-driven organization on a mission to deliver high-quality Agent software written entirely in Rust. Our goal? To empower developers to build secure, production-ready Agents that run anywhere with GPU/CPU acceleration.
 
 ## 🚀 What We Do
 
