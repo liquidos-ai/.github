@@ -2,14 +2,10 @@
   <img src="../LinkedIn cover.svg" alt="LiquidOS Cover" />
 </p>
 
-<table>
-  <tr>
-    <td><img src="../logo.svg" alt="LiquidOS Logo" width="48"></td>
-    <td><h1>LiquidOS</h1></td>
-  </tr>
-</table>
-
 ---
+
+## 🌐 LiquidOS
+Welcome to LiquidOS! We're a community-driven organization on a mission to deliver high-quality Agent software written entirely in Rust. Our goal? To empower developers to build secure, production-ready Agents that ru nanywhere with acceleration.
 
 ## 🚀 What We Do
 
