@@ -1,41 +1,73 @@
-<p align="center">
-  <img src="../LinkedIn cover.svg" alt="LiquidOS Cover" />
-</p>
+<p align="center">                                                        
+    <img src="../LinkedIn cover.svg" alt="LiquidOS Cover" />                
+</p>                                                                      
+                                                                            
+---                                                                       
+
+## LiquidOS
+
+The sovereign runtime for autonomous agents. LiquidOS is a Rust-native
+orchestration runtime designed for high-stakes environments — where
+security, deterministic execution, and governance are non-negotiable.
+
+We provide the hard security, multi-layer sandboxing, and policy
+enforcement that Python and TypeScript frameworks can't touch.
+
+## What We Build
+
+**AutoAgents** — Open-source Rust agent runtime for building reliable,
+production-grade agent systems. [AutoAgents](https://github.com/liquidos-ai/AutoAgents)
+
+**Odyssey SDK** — Open-source Rust orchestration SDK for composing and
+deploying agents. [Odyssey](https://github.com/liquidos-ai/Odyssey)
 
 ---
 
-## 🌐 LiquidOS
-Welcome to LiquidOS! We're a community-driven organization on a mission to deliver high-quality Agent software written entirely in Rust. Our goal? To empower developers to build secure, production-ready Agents that run anywhere with GPU/CPU acceleration.
+## Core Capabilities
 
-## 🚀 What We Do
-
-We are building the future stack for AI — LiquidOS delivers foundational infrastructure that lets businesses deploy efficient, capable, and private Agentic AI systems across every scale, from edge devices to the cloud.
-
----
-
-## 🧠 Our Mission
-
-To make efficient general-purpose AI at every scale — enabling users to access, control, and customize powerful AI that works well across environments (on-device, private, enterprise). We believe AI should respect performance, domain-specific needs, and user privacy while being broadly useful. We believe this is possible with native support for Agentic AI at Edge.
-
----
-
-## 🧭 Our Values
-
-- **Innovation-First** – We push the limits of what's possible in AI systems and dev tooling.
-- **User-Centric** – Every design decision is guided by simplicity, speed, and real-world usability.
-- **Integrity & Openness** – We build in the open and value transparency.
-- **Safety by Design** – Rust is our foundation for concurrency, memory safety, and performance.
+- **Multi-Layer Sandboxing** — OS-level process isolation for agents, WASM
+ sandboxing for third-party tools
+- **Governance-as-Code** — Built-in human-in-the-loop controls and policy
+enforcement at the runtime level
+- **OpenTelemetry Tracing** — Native agent tracing with deterministic
+audit trails
+- **Edge-Native** — Fast, lightweight orchestration for Jetson, Raspberry
+Pi, ARM, and beyond
+- **Memory-Safe by Default** — Rust core eliminates runtime crashes,
+undefined behavior, and GC pauses
 
 ---
 
-## 🤝 Join Us
+## Who This Is For
 
-We’re looking for contributors, early adopters, and partners to shape the future of intelligent development.  
-If you're building agents, devtools, or AI-native infrastructure — we'd love to connect.
+**Developers** — Build local agents that index your code, emails, and
+sensitive files. 100% local execution with hard-sandboxed tools.
+
+**Enterprise** — OpenTelemetry-native agent tracing with deterministic
+audit trails and cryptographically signed logs. Replace Shadow AI with a
+hardened execution plane.
+
+**Robotics & Embedded** — Fast, lightweight orchestration for edge
+devices. Rust-native safety prevents rogue instruction errors at the
+hardware boundary.
 
 ---
 
-## 📬 Contact
+## Get Involved
 
-🌐 Website: [https://liquidos.ai](https://liquidos.ai)  
-👤 Creator (Sai Vishwak Korimerla) – [Email](mailto:saivishwak40@gmail.com) / [Linkedin](https://www.linkedin.com/in/sai-vishwak-korimerla/)
+We're looking for contributors, early adopters, and partners building the
+next generation of agent infrastructure.
+
+- Browse our repos and open an issue
+- Star the projects if you find them useful
+- Reach out if you're building agents, devtools, or AI-native
+infrastructure
+
+---
+
+## Contact
+
+Website: [liquidos.ai](https://liquidos.ai)
+
+Creator: Sai Vishwak Korimerla — [Email](mailto:saivishwak40@gmail.com) /
+[LinkedIn](https://www.linkedin.com/in/sai-vishwak-korimerla/)
