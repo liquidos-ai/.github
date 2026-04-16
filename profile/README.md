@@ -18,15 +18,10 @@ enforcement that Python and TypeScript frameworks can't touch.
 **AutoAgents** — Open-source Rust agent runtime for building reliable,
 production-grade agent systems. [AutoAgents](https://github.com/liquidos-ai/AutoAgents)
 
-**Odyssey SDK** — Open-source Rust orchestration SDK for composing and
-deploying agents. [Odyssey](https://github.com/liquidos-ai/Odyssey)
-
 ---
 
 ## Core Capabilities
 
-- **Multi-Layer Sandboxing** — OS-level process isolation for agents, WASM
- sandboxing for third-party tools
 - **Governance-as-Code** — Built-in human-in-the-loop controls and policy
 enforcement at the runtime level
 - **OpenTelemetry Tracing** — Native agent tracing with deterministic
