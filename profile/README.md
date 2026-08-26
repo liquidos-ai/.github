@@ -15,8 +15,10 @@ enforcement that Python and TypeScript frameworks can't touch.
 
 ## What We Build
 
-[**AutoAgents**](https://github.com/liquidos-ai/AutoAgents) — Open-source Rust agent runtime for building reliable,
+[**AutoAgents**](https://github.com/liquidos-ai/AutoAgents) — Open-source Rust agent framework for building reliable,
 production-grade agent systems.
+
+[**Odyssey**](https://github.com/liquidos-ai/Odyssey) — Open-source bundle first agent runtime for sharing, building and running agents.
 
 [**FastLLM**](https://github.com/liquidos-ai/FastLLM) — Open-source Rust LLM Gateway SDK with Local Model Support.
 
